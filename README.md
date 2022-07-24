@@ -14,7 +14,7 @@ https://www.industriallogic.com/blog/stop-using-story-points/
 
 We value doing more than writing about doing.
 
-Stewart Brand
+## Stewart Brand
 All buildings are predictions and all predictions are wrong.
 
 Design with change in mind.
@@ -26,7 +26,7 @@ And my fav - Never do circular buildings. Cant remember the exact quote. We will
 
 Stop planning (that includes estimating) and start doing.
 
-### The 60 page requirements word doc and the felt tip dohnuts doc killer
+### The 60 page requirements word doc and the felt tip donuts doc killer
 
 ### Refreshing a set of infra from snowflake to IAC
 
